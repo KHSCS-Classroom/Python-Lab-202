@@ -1,3 +1,0 @@
-language = "python3"
-run = "python3 president.py"
-run = "python3 rollerCoaster.py"
